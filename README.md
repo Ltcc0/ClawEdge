@@ -1,12 +1,3 @@
-为了让你的 GitHub 仓库看起来非常专业，我编写了这份最终版的 `README.md`。
-
-**⚠️ 操作建议**：
-1. 请将你刚才发给我的工作流图片下载下来。
-2. 在你的 GitHub 项目根目录下创建一个文件夹叫 `docs`，将图片重命名为 `workflow.png` 放入其中。
-3. 这样文档中的图片引用 `![ClawEdge Workflow](./docs/workflow.png)` 就能正常显示了。
-
----
-
 # 🦀 ClawEdge
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
@@ -20,7 +11,7 @@
 
 ## 📊 System Workflow
 
-![ClawEdge Workflow](G:\workflow.jpg)
+![ClawEdge Workflow](./docs/workflow.jpg)
 
 The ClawEdge architecture ensures a strict separation between **Planning** and **Execution**:
 
